@@ -3,13 +3,13 @@
   # dfslkfgs
 
   ## Table of Contents
-  *[Description](#description)
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Contributers](#contribute)
-  *[Tests](#tests)
-  *[License](#license)
-  *[Questions](#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributers](#contribute)
+  * [Tests](#tests)
+  * [License](#license)
+  * [Questions](#questions)
 
   <a name='description'></a>
   ## Description
