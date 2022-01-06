@@ -33,12 +33,13 @@ inquirer
         message: 'What licenses were used in this project?',
         name: 'license',
         choices: [
-            'Apache',
-            'GNU',
-            'MIT',
-            'Mozilla',
-            'Boost',
-            'None'
+            
+          "Apache",
+            "GNU",
+            "MIT",
+            "Mozilla",
+            "Boost",
+            "None"
         ]
       },
       {
