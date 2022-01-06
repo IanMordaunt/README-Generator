@@ -2,12 +2,15 @@ const fs = require('fs');
 
 const inquirer = require('inquirer');
 
+const generateMarkdown = require('./utils/generateMarkdown.js')
+
+const util = require('util')
 
 inquirer
   .prompt([
     {
       type: 'input',
-      message: 'What is you project title?',
+      message: 'What is your projects title?',
       name: 'title',
     },
     {
@@ -34,7 +37,7 @@ inquirer
             'GNU',
             'MIT',
             'Mozilla',
-            'Open',
+            'Boost',
             'None'
         ]
       },
@@ -61,84 +64,15 @@ inquirer
 
   ])
 
-  .then((response) =>
+   .then((response) => 
 
-      fs.writeFile('README.md', generateMarkdown(response), (err) =>
-      err ? console.error(err) : console.log('README.md created successfully!')
-  ));
-
-
- 
-
-  function generateMarkdown(response) {
-
-    return `
-
-    #${response.title}
-
-    ## Table of Contents
-    *[Description](#description)
-    *[Installation](#installation)
-    *[Usage](#usage)
-    *[Contributers](#contribute)
-    *[Tests](#tests)
-    *[License](#license)
-    *[Questions](#questions)
-
-    <a name='description'></a>
-    ##Description
-
-    ${response.description}
-
-    <a name='installation'></a>
-    ##Installation
-
-    ${response.installation}
-
-    <a name='usage'></a>
-    ##Usage
-
-    ${response.usage}
-
-    <a name='contribute'></a>
-    ##Contributers
-
-    ${response.contribute}
-
-    <a name='tests'></a>
-    ##Test
-
-    ${response.test}
-
-    <a name='license'></a>
-    [License: ${response.license}]
-
-    <a name='questions'></a>
-    ##Questions
-
-    [Email me: ${response.email}] 
-
-    `
-  }
-
-// function init() {
-
-//     const finalReadMe = generateMarkdown(response)
-
-//     fs.writeFile('README.md', finalReadMe), (err) =>
-//           err ? console.error(err) : console.log('README.md successfully created!');
-
-// }
-
-// init();
+    fs.writeFile('README.md', generateMarkdown(response), (err) =>
+   err ? console.error(err) : console.log('README.md created successfully!')
+  
+   ));
 
 
 
+  
 
- // console.log('README.md created successfully');
-
- 
-//       fs.writeFile('README.md', JSON.stringify(response), (err) =>
-//       err ? console.error(err) : console.log('Commit logged!')
-//   ));
 
