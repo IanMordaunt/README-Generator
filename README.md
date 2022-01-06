@@ -37,6 +37,7 @@
   ;lskdfgsd
 
   <a name='license'></a>
+  ## License
   [License: Mozilla]
 
   <a name='questions'></a>

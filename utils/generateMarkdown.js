@@ -28,7 +28,7 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(response) {
   const licenseSection = renderLicenseSection(response.licenses);
-  const licenseBadge = renderLicenseBadge(response.licenses);
+  const licenseBadge = renderLicenseBadge(response.license);
   const licenseLink = renderLicenseLink(response.licenses);
 
   return `
@@ -75,7 +75,8 @@ function generateMarkdown(response) {
   <a name='questions'></a>
   ##Questions
 
-  [Email me: ${response.email}] 
+  [Email: ${response.email}] 
+  [GitHub: ${response.GitHub} ]
 
   `;
 }
