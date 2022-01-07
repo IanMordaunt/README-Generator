@@ -90,13 +90,14 @@ function generateMarkdown(response) {
   ${response.test}
 
   <a name='license'></a>
+  ## Lincenses
   ${licenseBadge} ${licenseLink}
 
   <a name='questions'></a>
   ## Questions
 
   Email: ${response.email} 
-  GitHub: ${response.GitHub} 
+  GitHub Name: ${response.GitHub} 
 
   `;
 }
