@@ -1,48 +1,48 @@
 
 
-  # dfslkfgs
+  # README Generator
 
   ## Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contributers](#contribute)
-  * [Tests](#tests)
-  * [License](#license)
-  * [Questions](#questions)
+  *[Description](#description)
+  *[Installation](#installation)
+  *[Usage](#usage)
+  *[Contributers](#contribute)
+  *[Tests](#tests)
+  *[License](#license)
+  *[Questions](#questions)
 
   <a name='description'></a>
   ## Description
 
-  ,.ksdjfgsd;kfjg
+  An application that helps expidite the creation of a README file.
 
   <a name='installation'></a>
   ## Installation
 
-  lkjusgflskdj
+  npm inquirer
 
   <a name='usage'></a>
   ## Usage
 
-  lkjsdgflsdkjg
+  Used to generate a README file for a project.
 
   <a name='contribute'></a>
   ## Contributers
 
-  ;ksdfgh
+  Ian Mordaunt
 
   <a name='tests'></a>
   ## Test
 
-  ;lskdfgsd
+  npm test
 
   <a name='license'></a>
-  ## License
-  [License: Mozilla]
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) https://opensource.org/licenses/MIT
 
   <a name='questions'></a>
   ## Questions
 
-  [Email me: kl;isghdfk;i] 
+  [Email: Ianmordaunt@github.com] 
+  [GitHub: IanMordaunt ]
 
   

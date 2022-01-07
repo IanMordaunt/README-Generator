@@ -33,8 +33,7 @@ inquirer
         message: 'What licenses were used in this project?',
         name: 'license',
         choices: [
-            
-          "Apache",
+            "Apache",
             "GNU",
             "MIT",
             "Mozilla",
@@ -72,8 +71,5 @@ inquirer
   
    ));
 
-
-
-  
-
+   
 
