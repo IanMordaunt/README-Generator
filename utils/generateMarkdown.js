@@ -96,7 +96,7 @@ function generateMarkdown(response) {
   <a name='questions'></a>
   ## Questions
 
-  Email: ${response.email} 
+  Email: ${response.email}\n
   GitHub Name: ${response.GitHub} 
 
   `;

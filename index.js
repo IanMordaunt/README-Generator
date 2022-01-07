@@ -4,7 +4,6 @@ const inquirer = require('inquirer');
 
 const generateMarkdown = require('./utils/generateMarkdown.js')
 
-const util = require('util')
 
 inquirer
   .prompt([
