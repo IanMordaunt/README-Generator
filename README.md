@@ -21,7 +21,7 @@
   <a name='description'></a>
   ## Description
 
-  An application that helps expedite the creation of a README.md file
+  An application to help expidite the creation of a README file
 
   <a name='installation'></a>
   ## Installation
@@ -31,7 +31,7 @@
   <a name='usage'></a>
   ## Usage
 
-  Used to help generate a README file for any project
+  Used to generate a README file for any project
 
   <a name='contribute'></a>
   ## Contributers
@@ -44,14 +44,14 @@
   npm test
 
   <a name='license'></a>
-  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg) https://opensource.org/licenses/MPL-2.0
+  ## Lincenses
+  ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg) https://opensource.org/licenses/MPL-2.0
 
   <a name='questions'></a>
   ## Questions
 
   Email: Ianmordaunt@github.com 
-  GitHub: IanMordaunt 
+  GitHub Name: IanMordaunt 
 
- ## Demo Video: 
+  ## Demo Video: 
  https://vimeo.com/663207350
-
