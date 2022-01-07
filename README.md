@@ -4,17 +4,24 @@
 
   ## Table of Contents
   *[Description](#description)
+
   *[Installation](#installation)
+
   *[Usage](#usage)
+
   *[Contributers](#contribute)
+
   *[Tests](#tests)
+
   *[License](#license)
+
   *[Questions](#questions)
+
 
   <a name='description'></a>
   ## Description
 
-  An application that helps expidite the creation of a README file.
+  An application that helps expedite the creation of a README.md file
 
   <a name='installation'></a>
   ## Installation
@@ -24,7 +31,7 @@
   <a name='usage'></a>
   ## Usage
 
-  Used to generate a README file for a project.
+  Used to help generate a README file for any project
 
   <a name='contribute'></a>
   ## Contributers
@@ -37,12 +44,12 @@
   npm test
 
   <a name='license'></a>
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) https://opensource.org/licenses/MIT
+  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg) https://opensource.org/licenses/MPL-2.0
 
   <a name='questions'></a>
   ## Questions
 
-  [Email: Ianmordaunt@github.com] 
-  [GitHub: IanMordaunt ]
+  Email: Ianmordaunt@github.com 
+  GitHub: IanMordaunt 
 
-  
+  ![alt txt](src./)
