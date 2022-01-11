@@ -97,7 +97,8 @@ function generateMarkdown(response) {
   ## Questions
 
   Email: ${response.email}\n
-  GitHub Name: ${response.GitHub} 
+  GitHub: <a href="https://www.github.com/${response.GitHub}" target="_blank">${response.GitHub}</a>;
+  
 
   `;
 }

@@ -1,5 +1,4 @@
 
-
   # README Generator
 
   ## Table of Contents
@@ -53,6 +52,4 @@
   Email: Ianmordaunt@gmail.com
 
   GitHub: <a href="https://www.github.com/IanMordaunt" target="_blank">IanMordaunt</a>;
-  
-
   
