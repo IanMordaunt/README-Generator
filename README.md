@@ -21,7 +21,12 @@
   <a name='description'></a>
   ## Description
 
-  An application to help expedite the creation process of a ReadMe file
+  An application to help expedite the creation process of a ReadMe file from the cammand line
+
+  ## Links
+
+  GitHub Repository: https://github.com/IanMordaunt/README-Generator
+  README-Generator Demo: https://vimeo.com/manage/videos/663207350
 
   <a name='installation'></a>
   ## Installation
@@ -52,7 +57,7 @@
 
   Email: Ianmordaunt@gmail.com
 
-  GitHub: <a href="https://www.github.com/IanMordaunt" target="_blank">IanMordaunt</a>;
+  GitHub: <a href="https://www.github.com/IanMordaunt" target="_blank">IanMordaunt</a>
   
 
   
