@@ -51,5 +51,5 @@
 
   Email: Ianmordaunt@gmail.com
 
-  GitHub: <a href="https://www.github.com/IanMordaunt" target="_blank">IanMordaunt</a>;
+  GitHub: <a href="https://www.github.com/IanMordaunt" target="_blank">IanMordaunt</a>
   
